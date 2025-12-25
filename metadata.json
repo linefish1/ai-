@@ -1,0 +1,8 @@
+{
+  "name": "Shuyong AI - AI众筹网站",
+  "description": "A modern, responsive article publishing and management system integrated with Gemini AI for intelligent content creation, summarization, and automated cover generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
